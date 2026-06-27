@@ -1,4 +1,4 @@
-# ♻️ NYC Recycling Performance Prediction
+# NYC Waste Collection Analysis
 --------
 ![download](https://github.com/user-attachments/assets/f3573626-eff2-4b12-b6a5-814150b3ef38)
 
